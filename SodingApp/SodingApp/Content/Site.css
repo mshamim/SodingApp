@@ -1,0 +1,18 @@
+﻿.applicationlist.row {
+    margin-bottom: 5px
+}
+
+.applicationlist.header {
+    font-weight: bold
+}
+
+hr {
+    margin: 5px;
+    width: 96%
+}
+
+.panel .frame {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px
+}

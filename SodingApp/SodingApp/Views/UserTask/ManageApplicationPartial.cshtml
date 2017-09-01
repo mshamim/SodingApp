@@ -1,0 +1,30 @@
+﻿@model SodingApp.Controllers.Resources.UserTaskManageViewModel
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(false)
+    <div class="form-group">
+        <label>@Html.LabelFor(model => model.Name)</label>
+        @Html.TextBoxFor(model => model.Name, new { @placeholder = "Enter name", @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>@Html.LabelFor(model => model.Description)</label>
+        @Html.TextAreaFor(model => model.Description, new { @placeholder = "Enter description", @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>@Html.LabelFor(model => model.DateCreated)</label>
+        @*@Html.TextBoxFor(model => model.DateCreated, "{0:dd.MM.yyyy}", new {  @placeholder = "Enter date Created", @class = "form-control" })*@
+        @*@Html.EditorFor(model => model.DateCreated, new { @class = "form-control date-picker" })*@
+        @Html.TextBoxFor(m => m.DateCreated, new { @Value = Model.DateCreated.ToString("yyyy/MM/dd"), @placeholder = "yyyy/MM/dd", @class = "datepicker form-control" })
+    </div>
+    <div class="form-group">
+        <label>@Html.LabelFor(model => model.DateUpdated)</label>
+        @*@Html.TextBoxFor(model => model.DateUpdated, "{0:dd.MM.yyyy}", new { @placeholder = "Enter DateUpdated", @class = "form-control" })*@
+        @*@Html.EditorFor(model => model.DateUpdated, new { @Value = Model.DateUpdated.ToString("yyyy/MM/dd"), @class = "form-control date-picker" })*@
+        @Html.TextBoxFor(m => m.DateUpdated, new { @Value = Model.DateUpdated.ToString("yyyy/MM/dd"), @placeholder = "yyyy/MM/dd", @class = "datepicker form-control" })
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+}

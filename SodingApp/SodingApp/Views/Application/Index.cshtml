@@ -1,0 +1,36 @@
+﻿@model SodingApp.Controllers.Resources.ApplicationListViewModel
+
+@{
+    ViewBag.Title = "List of applications";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>These are your applications.</p>
+<ul class="list-group">
+
+    <div class="row applicationlist header">
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-5">Name</div>
+        <div class="col-md-4">Slug</div>
+    </div>
+
+    <hr />
+
+    @foreach (var item in Model.Applications)
+    {
+        <div class="row applicationlist">
+            <div class="col-md-1">
+                <a class="btn btn-default btn-xs" href="@Url.Action("Edit", new { @id = item.Id })"><span class="glyphicon glyphicon-edit"></span></a>
+                <a class="btn btn-danger btn-xs" href="@Url.Action("Delete", new { @id = item.Id })"><span class="glyphicon glyphicon-remove"></span></a>
+            </div>
+            <div class="col-md-5">@Html.DisplayFor(modelItem => item.Name)</div>
+            <div class="col-md-4">@Html.DisplayFor(modelItem => item.Slug)</div>
+        </div>
+        
+        <hr />
+    }
+</ul>
+
+@Html.ActionLink("Create new application", "Create", null, new { @class = "btn btn-primary" })
+<br />

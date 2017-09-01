@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44385dea-ee8d-4e25-aee4-d6689b3224da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UserTaskListViewModel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskListViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+              <folding>
+                <marker date="1504188975794" expanded="false" signature="6:57" ph="..." />
+                <marker date="1504188975794" expanded="true" signature="100:910" ph="{...}" />
+                <marker date="1504188975794" expanded="true" signature="141:908" ph="{...}" />
+                <marker date="1504188975794" expanded="true" signature="186:266" ph="{...}" />
+                <marker date="1504188975794" expanded="true" signature="337:617" ph="{...}" />
+                <marker date="1504188975794" expanded="true" signature="456:607" ph="{...}" />
+                <marker date="1504188975794" expanded="true" signature="693:838" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userTaskRepository</find>
+      <find>UserTaskListViewModel</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/IRepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/RepositoryBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Models/Application.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Models/Team.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Models/UserTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/IUserTaskRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/UserTaskRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/UserTaskController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskManageViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Views/UserTask/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Views/UserTask/ManageApplicationPartial.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/ApplicationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/ControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationListViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationManageViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Persistence/SodingContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Persistence/IDataContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/ITeamRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/TeamRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/IApplicationRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SodingApp/Repositories/ApplicationRepository.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SodingApp/Models/Application.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Persistence/SodingContext.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Persistence/IDataContext.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/IRepositoryBase.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/ITeamRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/RepositoryBase.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/TeamRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/ControllerBase.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Models/Team.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Models/UserTask.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/IApplicationRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/IUserTaskRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/ApplicationRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Repositories/UserTaskRepository.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/ApplicationController.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationViewModel.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationListViewModel.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationManageViewModel.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskManageViewModel.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Views/UserTask/Index.cshtml" />
+        <option value="$PROJECT_DIR$/SodingApp/Views/UserTask/ManageApplicationPartial.cshtml" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskViewModel.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/UserTaskController.cs" />
+        <option value="$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskListViewModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SodingApp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SodingApp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SodingApp (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SodingApp" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44385dea-ee8d-4e25-aee4-d6689b3224da" name="Default" comment="" />
+      <created>1504175356599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504175356599</updated>
+      <workItem from="1504175365134" duration="1431000" />
+      <workItem from="1504177085307" duration="5933000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7364000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SodingApp/Models/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Persistence/IDataContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Persistence/SodingContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/ITeamRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/RepositoryBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/TeamRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/ControllerBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Models/Team.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1504176021991" expanded="false" signature="6:144" ph="..." />
+            <marker date="1504176021991" expanded="true" signature="172:519" ph="{...}" />
+            <marker date="1504176021991" expanded="true" signature="196:517" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/IUserTaskRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504179375663" expanded="true" signature="60:147" ph="{...}" />
+            <marker date="1504179375663" expanded="true" signature="132:144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/IApplicationRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1504176254525" expanded="true" signature="57:148" ph="{...}" />
+            <marker date="1504176254525" expanded="true" signature="134:146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/UserTaskRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1504179403020" expanded="false" signature="6:93" ph="..." />
+            <marker date="1504179403020" expanded="true" signature="130:375" ph="{...}" />
+            <marker date="1504179403020" expanded="true" signature="248:372" ph="{...}" />
+            <marker date="1504179403020" expanded="true" signature="346:366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/ApplicationRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1504176334324" expanded="false" signature="6:91" ph="..." />
+            <marker date="1504176334324" expanded="true" signature="125:380" ph="{...}" />
+            <marker date="1504176334324" expanded="true" signature="251:378" ph="{...}" />
+            <marker date="1504176334324" expanded="true" signature="352:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <marker date="1504176665166" expanded="false" signature="6:68" ph="..." />
+            <marker date="1504176665166" expanded="true" signature="111:1028" ph="{...}" />
+            <marker date="1504176665166" expanded="true" signature="151:1026" ph="{...}" />
+            <marker date="1504176665166" expanded="true" signature="195:215" ph="{...}" />
+            <marker date="1504176665166" expanded="true" signature="277:614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1504179893451" expanded="false" signature="6:57" ph="..." />
+            <marker date="1504179893451" expanded="true" signature="100:683" ph="{...}" />
+            <marker date="1504179893451" expanded="true" signature="144:681" ph="{...}" />
+            <marker date="1504179893451" expanded="true" signature="192:278" ph="{...}" />
+            <marker date="1504179893451" expanded="true" signature="358:605" ph="{...}" />
+            <marker date="1504179893451" expanded="true" signature="489:595" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/ApplicationManageViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <marker date="1504180354974" expanded="true" signature="66:765" ph="{...}" />
+            <marker date="1504180354974" expanded="true" signature="135:763" ph="{...}" />
+            <marker date="1504180354974" expanded="true" signature="206:226" ph="{...}" />
+            <marker date="1504180354974" expanded="true" signature="325:345" ph="{...}" />
+            <marker date="1504180354974" expanded="true" signature="387:458" ph="{...}" />
+            <marker date="1504180354974" expanded="true" signature="523:757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Views/UserTask/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1504188828546" expanded="true" signature="61:153" ph="@..." />
+            <marker date="1504188828546" expanded="true" signature="183:1408" ph="&lt;ul.../&gt;" />
+            <marker date="1504188828546" expanded="true" signature="211:325" ph="&lt;div.../&gt;" />
+            <marker date="1504188828546" expanded="true" signature="260:297" ph="&lt;div.../&gt;" />
+            <marker date="1504188828546" expanded="true" signature="1288:1402" ph="@..." />
+            <marker date="1504188828546" expanded="true" signature="1288:1402" ph="{...}" />
+            <marker date="1504188828546" expanded="true" signature="1288:1380" ph="&lt;div.../&gt;" />
+            <marker date="1504188828546" expanded="true" signature="614:968" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Views/UserTask/ManageApplicationPartial.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <marker date="1504188096463" expanded="true" signature="64:1845" ph="@..." />
+            <marker date="1504188096463" expanded="true" signature="89:1845" ph="{...}" />
+            <marker date="1504188096463" expanded="true" signature="160:362" ph="&lt;div.../&gt;" />
+            <marker date="1504188096463" expanded="true" signature="367:591" ph="&lt;div.../&gt;" />
+            <marker date="1504188096463" expanded="true" signature="596:696" ph="&lt;div.../&gt;" />
+            <marker date="1504188096463" expanded="true" signature="1673:1684" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/ApplicationController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="54" />
+          <folding>
+            <marker date="1504176669682" expanded="false" signature="6:123" ph="..." />
+            <marker date="1504176669682" expanded="true" signature="156:4738" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="214:4736" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="466:600" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="637:870" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="908:1022" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1111:1805" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1157:1727" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1191:1518" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1555:1713" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1847:2269" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="1960:2135" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="2356:3258" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="2402:3180" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="2655:2975" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="3012:3166" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="3302:3665" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="3415:3590" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="3748:4438" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="3985:4220" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="4253:4395" ph="{...}" />
+            <marker date="1504176669682" expanded="true" signature="4448:4730" ph="Private Helpers" />
+            <marker date="1504176669682" expanded="true" signature="4541:4711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Models/UserTask.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <marker date="1504187623438" expanded="false" signature="6:13" ph="..." />
+            <marker date="1504187623438" expanded="true" signature="535:537" ph="{...}" />
+            <marker date="1504187623438" expanded="true" signature="172:521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskManageViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <marker date="1504180335997" expanded="true" signature="69:782" ph="{...}" />
+            <marker date="1504180335997" expanded="true" signature="133:779" ph="{...}" />
+            <marker date="1504180335997" expanded="true" signature="201:221" ph="{...}" />
+            <marker date="1504180335997" expanded="true" signature="308:328" ph="{...}" />
+            <marker date="1504180335997" expanded="true" signature="367:435" ph="{...}" />
+            <marker date="1504180335997" expanded="true" signature="491:773" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1504187943969" expanded="true" signature="6:82" ph="..." />
+            <marker date="1504187943969" expanded="true" signature="125:1172" ph="{...}" />
+            <marker date="1504187943969" expanded="true" signature="162:1170" ph="{...}" />
+            <marker date="1504187943969" expanded="true" signature="203:311" ph="{...}" />
+            <marker date="1504187943969" expanded="true" signature="364:658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Repositories/IRepositoryBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <marker date="1504176260916" expanded="true" signature="67:363" ph="{...}" />
+            <marker date="1504176260916" expanded="true" signature="125:361" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/UserTaskController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="121" column="70" lean-forward="false" selection-start-line="121" selection-start-column="70" selection-end-line="121" selection-end-column="70" />
+          <folding>
+            <marker date="1504188829762" expanded="false" signature="6:123" ph="..." />
+            <marker date="1504188829762" expanded="true" signature="156:4065" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="211:4063" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="367:458" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="495:726" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="764:853" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="939:1579" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="985:1537" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="1019:1331" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="1368:1523" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="1621:1974" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="1725:1898" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="2058:2926" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="2104:2871" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="2351:2666" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="2703:2857" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="2970:3316" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="3074:3247" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="3396:4056" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="3622:3845" ph="{...}" />
+            <marker date="1504188829762" expanded="true" signature="3878:4013" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SodingApp/Controllers/Resources/UserTaskListViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1504188975794" expanded="false" signature="6:57" ph="..." />
+            <marker date="1504188975794" expanded="true" signature="100:910" ph="{...}" />
+            <marker date="1504188975794" expanded="true" signature="141:908" ph="{...}" />
+            <marker date="1504188975794" expanded="true" signature="186:266" ph="{...}" />
+            <marker date="1504188975794" expanded="true" signature="337:617" ph="{...}" />
+            <marker date="1504188975794" expanded="true" signature="456:607" ph="{...}" />
+            <marker date="1504188975794" expanded="true" signature="693:838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
